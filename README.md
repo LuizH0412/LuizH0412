@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/lulizkkk)
 
 
-![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizBackCode&show_icons=true&theme=radical)
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizH0412&show_icons=true&theme=radical)
 
 
 ## Tecnologias que eu utilizo
